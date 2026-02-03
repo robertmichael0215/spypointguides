@@ -1,7 +1,9 @@
+{# Inherit default theme layout #}
 {% extends "!layout.html" %}
 
 {% block extrahead %}
-    {{ super() }}
-    <!-- Bing Webmaster Verification -->
-    <meta name="msvalidate.01" content="739245F5D54BCBF40AC056DC0CBF5710" />
+  {{ super() }}
+  {% if bing_verification_code %}
+  <meta name="msvalidate.01" content="{{ bing_verification_code }}" />
+  {% endif %}
 {% endblock %}
