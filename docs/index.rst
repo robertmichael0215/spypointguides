@@ -3,7 +3,7 @@ How to Access Your Spypoint Login Account Easily?
 
 Managing your trail camera data becomes simple when you understand how to use your Spypoint login account the right way. Whether you are a hunter, wildlife enthusiast, land manager, or outdoor photographer, having smooth access to your Spypoint account helps you stay connected with your camera, images, and activity updates without stress. This guide explains everything you need to know about secure account access, common login concerns, and best practices for keeping your Spypoint experience reliable and efficient.
 
-.. image:: login-noww.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
